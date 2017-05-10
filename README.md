@@ -5,7 +5,7 @@ A Python3 API for FreeboxV6
 This API is **VERY INSECURE**. Use it in application that only you can have access to.
 
 ## Getting an API token
-If you launch FreeboxAPI with no token specified, it will generate and display a token for you. **To avoid duplication of application in the Freebox Server system, you can reuse your token by passing it as an argument when you instantiate the API. See example below. **
+If you launch FreeboxAPI with no token specified, it will generate and display a token for you. **To avoid duplication of application in the Freebox Server system, you can reuse your token by passing it as an argument when you instantiate the API. See example below.**
 
 
 ## Methods
